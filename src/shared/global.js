@@ -79,7 +79,7 @@ export const bodyStyles = css`
 	}
 
 	pre {
-		line-height: 18px;
+		line-height: 19px;
 		padding: 11px 1rem;
 		white-space: pre-wrap;
 
