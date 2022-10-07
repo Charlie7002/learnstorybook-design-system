@@ -38,7 +38,7 @@ export const bodyStyles = css`
 
 	sub,
 	sup {
-		font-size: 0.8em;
+		font-size: 0.7em;
 	}
 
 	sub {
@@ -71,7 +71,7 @@ export const bodyStyles = css`
 
 	code {
 		display: inline-block;
-		padding-left: 2px;
+		padding-left: 3px;
 		padding-right: 2px;
 		vertical-align: baseline;
 
@@ -79,7 +79,7 @@ export const bodyStyles = css`
 	}
 
 	pre {
-		line-height: 19px;
+		line-height: 18px;
 		padding: 11px 1rem;
 		white-space: pre-wrap;
 
