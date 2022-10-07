@@ -33,9 +33,8 @@ const SIZES = {
 };
 
 const StyledButton = styled.button`
-	border: 15px solid purple;
-	font-size: 20px;
-	border: 0;
+	border: 18px solid orange;
+	font-size: 22px;
 	border-radius: 3em;
 	cursor: pointer;
 	display: inline-block;
@@ -51,7 +50,7 @@ const StyledButton = styled.button`
 	user-select: none;
 	opacity: 1;
 	margin: 0;
-	background: transparent;
+	background: pink;
 
 	font-size: ${props => (props.size === SIZES.SMALL ? typography.size.s1 : typography.size.s2)}px;
 	font-weight: ${typography.weight.extrabold};
